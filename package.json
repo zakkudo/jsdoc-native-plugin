@@ -1,9 +1,11 @@
 {
-  "name": "@zakkudo/jsdoc-immutable-plugin",
+  "name": "@zakkudo/jsdoc-native-plugin",
   "version": "0.0.1",
-  "description": "Adds custom tags to jsdoc to help document immutable usages",
+  "description": "Adds custom types to jsdoc to help document native features from html and javscript",
   "keywords": [
-    "immutable",
+    "native",
+    "mdn",
+    "html",
     "jsdoc",
     "documentation"
   ],

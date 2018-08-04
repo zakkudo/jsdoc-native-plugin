@@ -1,20 +1,21 @@
 /**
- * Immutable JS Library
- * @typedef Immutable
- * @namespace Immutable
- * @see {@link https://facebook.github.io/immutable-js/}
+ * Native HTML/Javascript in the browser.
+ * @typedef Native
+ * @namespace Native
+ * @see {@link http://mdn.com}
  */
 
 /**
- * Map from the Immutable JS Library
- * @typedef Immutable.Map
- * @memberof Immutable
- * @see {@link https://facebook.github.io/immutable-js/docs/#/Map}
+ * The DocumentFragment interface represents a minimal document object that
+ * has no parent.
+ * @typedef Native.DocumentFragment
+ * @memberof Native
+ * @see {@link https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment}
  */
 
 /**
- * List from the Immutable JS Library
- * @typedef Immutable.List
- * @memberof Immutable
- * @see {@link https://facebook.github.io/immutable-js/docs/#/List}
+ * An event that is synthetically created and fired (using the native class).
+ * @memberof Native
+ * @typedef Native.CustomEvent
+ * @see {@link https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent}
  */
