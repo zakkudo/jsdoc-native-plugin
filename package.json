@@ -1,6 +1,6 @@
 {
   "name": "@zakkudo/jsdoc-native-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adds custom types to jsdoc to help document native features from html and javscript",
   "keywords": [
     "native",
@@ -9,6 +9,7 @@
     "jsdoc",
     "documentation"
   ],
+  "repository": "github:zakkudo/jsdoc-native-plugin",
   "main": "src/index.js",
   "license": "BSD-3-Clause",
   "devDependencies": {
