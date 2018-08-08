@@ -21,4 +21,5 @@ Includes typedefs for
 - `Native` namespace
 - `Native.DocumentFragment`
 - `Native.CustomEvent`
+- `Native.Promise`
 - ...this will likely grow in the future.  Pull requests welcome!
